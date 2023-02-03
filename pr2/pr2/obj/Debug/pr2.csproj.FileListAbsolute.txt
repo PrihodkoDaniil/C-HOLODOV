@@ -1,0 +1,11 @@
+C:\Users\mad_g\source\repos\pr2\pr2\bin\Debug\pr2.exe.config
+C:\Users\mad_g\source\repos\pr2\pr2\bin\Debug\pr2.exe
+C:\Users\mad_g\source\repos\pr2\pr2\bin\Debug\pr2.pdb
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.Form1.resources
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.Properties.Resources.resources
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.exe
+C:\Users\mad_g\source\repos\pr2\pr2\obj\Debug\pr2.pdb
