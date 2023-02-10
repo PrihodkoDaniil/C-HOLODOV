@@ -1,0 +1,33 @@
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\bin\Debug\пз4.exe.config
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\bin\Debug\пз4.exe
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\bin\Debug\пз4.pdb
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.csproj.AssemblyReference.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.csproj.SuggestedBindingRedirects.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.Form1.resources
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.Properties.Resources.resources
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.csproj.GenerateResource.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.csproj.CoreCompileInputs.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.exe
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз4\obj\Debug\пз4.pdb
+C:\Users\mad_g\source\repos\C-\пз4\bin\Debug\пз4.exe.config
+C:\Users\mad_g\source\repos\C-\пз4\bin\Debug\пз4.exe
+C:\Users\mad_g\source\repos\C-\пз4\bin\Debug\пз4.pdb
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.Form1.resources
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.Properties.Resources.resources
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.exe
+C:\Users\mad_g\source\repos\C-\пз4\obj\Debug\пз4.pdb
+C:\Users\mad_g\source\repos\pr4\bin\Debug\пз4.exe.config
+C:\Users\mad_g\source\repos\pr4\bin\Debug\пз4.exe
+C:\Users\mad_g\source\repos\pr4\bin\Debug\пз4.pdb
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.Form1.resources
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.Properties.Resources.resources
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.exe
+C:\Users\mad_g\source\repos\pr4\obj\Debug\пз4.pdb
