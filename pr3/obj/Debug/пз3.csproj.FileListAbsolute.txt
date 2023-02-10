@@ -1,0 +1,33 @@
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\bin\Debug\пз3.exe.config
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\bin\Debug\пз3.exe
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\bin\Debug\пз3.pdb
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.csproj.AssemblyReference.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.csproj.SuggestedBindingRedirects.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.Form1.resources
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.Properties.Resources.resources
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.csproj.GenerateResource.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.csproj.CoreCompileInputs.cache
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.exe
+C:\Users\lizay\Новая папка\OneDrive\Рабочий стол\холодов\пз3\obj\Debug\пз3.pdb
+C:\Users\mad_g\Source\Repos\C-\пз3\bin\Debug\пз3.exe.config
+C:\Users\mad_g\Source\Repos\C-\пз3\bin\Debug\пз3.exe
+C:\Users\mad_g\Source\Repos\C-\пз3\bin\Debug\пз3.pdb
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.csproj.AssemblyReference.cache
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.Form1.resources
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.Properties.Resources.resources
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.csproj.GenerateResource.cache
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.exe
+C:\Users\mad_g\Source\Repos\C-\пз3\obj\Debug\пз3.pdb
+C:\Users\mad_g\source\repos\pr3\bin\Debug\пз3.exe.config
+C:\Users\mad_g\source\repos\pr3\bin\Debug\пз3.exe
+C:\Users\mad_g\source\repos\pr3\bin\Debug\пз3.pdb
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.Form1.resources
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.Properties.Resources.resources
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.csproj.CoreCompileInputs.cache
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.exe
+C:\Users\mad_g\source\repos\pr3\obj\Debug\пз3.pdb
