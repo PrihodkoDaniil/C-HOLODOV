@@ -1,0 +1,6 @@
+C:\Users\mad_g\source\repos\pr5\pr5\obj\Debug\pr5.csproj.AssemblyReference.cache
+C:\Users\mad_g\source\repos\pr5\pr5\obj\Debug\pr5.csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\source\repos\pr5\pr5\obj\Debug\pr5.Form1.resources
+C:\Users\mad_g\source\repos\pr5\pr5\obj\Debug\pr5.Properties.Resources.resources
+C:\Users\mad_g\source\repos\pr5\pr5\obj\Debug\pr5.csproj.GenerateResource.cache
+C:\Users\mad_g\source\repos\pr5\pr5\obj\Debug\pr5.csproj.CoreCompileInputs.cache
