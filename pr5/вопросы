@@ -1,0 +1,29 @@
+1. Какие классы для работы с файловой системой вы знаете?(FileInfo DirectoryInfo)
+2. Что такое класс потока? Перечислите классы потоков для работы с файлами?
+(FileStream представляет возможности по считыванию из файла и записи в файл.Append Create CreateNew Open
+OpenorCreate Truncate)
+3. Для чего используются интерфейсные типы? Приведите примеры.
+(писываются функциональные возможности, но без их реализации. 
+5-я практическая и практические из прошлого семестра)
+4. Какие классы отвечают за представление файлов в программе?(File FileInfo)
+5. Опишите последовательность действий при необходимости записать одну строку в файл.StreamWriter(string path(путь к файлу))
+Приведите примеры использования различных классов.
+6. Опишите принципы работы с байтовым потоком. Приведите пример кода для записи и считывания файла 
+с использованием байтового потока.(Либо чиатешь либо пишешь, Пример по ссылке:https://learn.microsoft.com/ru-ru/dotnet/api/system.io.stream?view=net-7.0)
+  private async void Button_Click(object sender, RoutedEventArgs e)
+        {
+            string StartDirectory = @"c:\Users\exampleuser\start";
+            string EndDirectory = @"c:\Users\exampleuser\end";
+
+            foreach (string filename in Directory.EnumerateFiles(StartDirectory))
+            {
+                using (FileStream SourceStream = File.Open(filename, FileMode.Open))
+                {
+                    using (FileStream DestinationStream = File.Create(EndDirectory + filename.Substring(filename.LastIndexOf('\\'))))
+                    {
+                        await SourceStream.CopyToAsync(DestinationStream);
+                    }
+                }
+	   }
+        }
+7. Чем байтовый поток отличается от символьного?(ну.....один работает с байтами,а другой с символами)
