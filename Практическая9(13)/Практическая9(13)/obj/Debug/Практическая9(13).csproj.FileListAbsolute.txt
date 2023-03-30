@@ -1,0 +1,30 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\MainWindow.g.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\App.g.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13)_MarkupCompile.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\bin\Debug\Практическая9(13).exe.config
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\bin\Debug\Практическая9(13).exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\bin\Debug\Практическая9(13).pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\MainWindow.baml
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).g.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9_13_.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).pdb
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\bin\Debug\Практическая9(13).exe.config
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\bin\Debug\Практическая9(13).exe
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\bin\Debug\Практическая9(13).pdb
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.AssemblyReference.cache
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\MainWindow.baml
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\MainWindow.g.cs
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\App.g.cs
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13)_MarkupCompile.cache
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).g.resources
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9_13_.Properties.Resources.resources
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.GenerateResource.cache
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).csproj.CoreCompileInputs.cache
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).exe
+C:\Users\mad_g\Downloads\Практическая9(13)\Практическая9(13)\obj\Debug\Практическая9(13).pdb

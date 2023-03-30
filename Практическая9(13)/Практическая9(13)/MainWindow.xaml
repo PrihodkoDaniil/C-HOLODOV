@@ -1,0 +1,57 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:av="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="av" x:Name="Unloaded" x:Class="Практическая9_13_.MainWindow"
+        Title="MainWindow" Height="500" Width="500">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="30*"/>
+            <ColumnDefinition Width="9*"/>
+            <ColumnDefinition Width="461*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Slider x:Name="sldSource" Value="14" Maximum="80" Minimum="1" 
+                TickFrequency="6" TickPlacement="Both"
+                Grid.Row="0" Margin="5,5,5,5" AutoToolTipPlacement="TopLeft" Grid.ColumnSpan="3"/>
+        <DockPanel Grid.Row="1" Grid.ColumnSpan="3">
+            <ListBox x:Name="listColor" DockPanel.Dock="Left" Width="150" SelectedIndex="0">
+                <ListBoxItem Content="Красный" Tag="Red"/>
+                <ListBoxItem Content="Зеленый" Tag="Green"/>
+                <ListBoxItem Content="Синий" Tag="Blue"/>
+                <ListBoxItem Content="Другой" Tag="#58aa45"/>
+                <ListBoxItem Content="Розовый" Tag="Pink"/>
+            </ListBox>
+            <ListBox x:Name="listStyle" SelectedIndex="0" Width="100">
+                <ListBoxItem Content="Normal" Tag="Normal"/>
+                <ListBoxItem Content="Italic" Tag="Italic"/>
+                <ListBoxItem Content="Oblique" Tag="Oblique"/>
+            </ListBox>
+            <TextBlock x:Name="txtTarget" DockPanel.Dock="Right"
+                       TextAlignment="Center" VerticalAlignment="Center"
+                       FontSize="{Binding Value, ElementName=sldSource, Mode=TwoWay}"
+                       Foreground="{Binding SelectedItem.Tag, ElementName=listColor}"
+                       FontStyle="{Binding SelectedItem.Tag, ElementName=listStyle}"
+                        FontFamily="{Binding SelectedItem.Tag, ElementName=ComboFamily}"/>
+
+        </DockPanel>
+        <TextBox x:Name="txtTextSource" Text="Бум текст" Grid.Row="1" Grid.ColumnSpan="3" Margin="0,296,0,0" Grid.RowSpan="2"/>
+        
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Left" Grid.Column="2" Margin="51,18,0,0" Grid.RowSpan="2">
+            <Button x:Name="btnNormal" Content="NormalSize" Margin="5" Width="100" 
+                    Click="btnNormal_OnClick"/>
+            <Button x:Name="btnLarge" Content="LargeSize" Margin="5" Width="100" 
+                    Click="btnLarge_OnClick"/>
+            <ComboBox x:Name="ComboFamily" SelectedIndex="0" Height="20" Width="130">
+                <ComboBoxItem Content="Times New Roman" Tag="Times New Roman"/>
+                <ComboBoxItem Content="Arial" Tag="Arial"/>
+                <ComboBoxItem Content="Tahoma" Tag="Tahoma"/>
+                <ComboBoxItem Content="Symbol" Tag="Symbol"/>
+            </ComboBox>
+        </StackPanel>
+    </Grid>
+</Window>
