@@ -1,0 +1,32 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\MainWindow.g.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\App.g.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12)_MarkupCompile.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12)_MarkupCompile.lref
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\bin\Debug\Практическая 8(12).exe.config
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\bin\Debug\Практическая 8(12).exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\bin\Debug\Практическая 8(12).pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\MainWindow.baml
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).g.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая_8_12_.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).pdb
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\bin\Debug\Практическая 8(12).exe.config
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\bin\Debug\Практическая 8(12).exe
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\bin\Debug\Практическая 8(12).pdb
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.AssemblyReference.cache
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.SuggestedBindingRedirects.cache
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\MainWindow.g.cs
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\App.g.cs
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12)_MarkupCompile.cache
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12)_MarkupCompile.lref
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\MainWindow.baml
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).g.resources
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая_8_12_.Properties.Resources.resources
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.GenerateResource.cache
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).csproj.CoreCompileInputs.cache
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).exe
+C:\Users\mad_g\Downloads\Практическая 8(12)\Практическая 8(12)\obj\Debug\Практическая 8(12).pdb
