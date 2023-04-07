@@ -1,0 +1,20 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая 5.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая_5.Form1.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая_5.Properties.Resources.resources
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая 5.csproj.GenerateResource.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая 5.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\bin\Debug\Практическая 5.exe.config
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\bin\Debug\Практическая 5.exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\bin\Debug\Практическая 5.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая 5.exe
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 5\Практическая 5\obj\Debug\Практическая 5.pdb
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\bin\Debug\Практическая 5.exe.config
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\bin\Debug\Практическая 5.exe
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\bin\Debug\Практическая 5.pdb
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\obj\Debug\Практическая 5.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\obj\Debug\Практическая_5.Form1.resources
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\obj\Debug\Практическая_5.Properties.Resources.resources
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\obj\Debug\Практическая 5.csproj.GenerateResource.cache
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\obj\Debug\Практическая 5.exe
+C:\Users\Student\Downloads\Практическая 5\Практическая 5\obj\Debug\Практическая 5.pdb
