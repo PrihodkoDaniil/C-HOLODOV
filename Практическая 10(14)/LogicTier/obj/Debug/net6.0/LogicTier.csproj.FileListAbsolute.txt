@@ -1,0 +1,12 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.AssemblyInfo.cs
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\bin\Debug\net6.0\LogicTier.deps.json
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\bin\Debug\net6.0\LogicTier.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\bin\Debug\net6.0\LogicTier.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\refint\LogicTier.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\LogicTier.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\LogicTier\obj\Debug\net6.0\ref\LogicTier.dll

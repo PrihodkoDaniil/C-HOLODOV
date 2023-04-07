@@ -1,0 +1,11 @@
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\DataTier1\bin\Debug\DataTier1.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\DataTier1\bin\Debug\DataTier1.pdb
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.dll
+C:\Users\user\OneDrive\Рабочий стол\Прикладное программирование Холодов\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\DataTier1\bin\Debug\DataTier1.dll
+C:\Users\Student\Downloads\Практическая 10(14)\DataTier1\bin\Debug\DataTier1.pdb
+C:\Users\Student\Downloads\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.csprojAssemblyReference.cache
+C:\Users\Student\Downloads\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.dll
+C:\Users\Student\Downloads\Практическая 10(14)\DataTier1\obj\Debug\DataTier1.pdb
